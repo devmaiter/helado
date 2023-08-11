@@ -1,0 +1,6 @@
+@media (min-width: 1280px){
+    @import 'pc';
+}
+@media (min-width: 320px){
+    @import 'mobile';
+}
